@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite this repository as indicated below."
+authors:
+  - family-names: Mahynski
+    given-names: Nathan A.
+    orcid: https://orcid.org/0000-0002-0008-8749
+  - family-names: Monroe
+    given-names: Jacob I.
+    orcid: https://orcid.org/0000-0002-7654-2856
+  - family-names: Sheen
+    given names: David A.
+    orcid: https://orcid.org/0000-0003-1958-1848
+  - family-names: Paul
+    given-names: Rick L.
+    orcid: https://orcid.org/0000-0002-6366-1901
+  - family-names: Chen-Mayer
+    given-names: Huaiyu Heather
+    orcid: https://orcid.org/0000-0002-4810-0073
+  - family-names: Shen
+    given-names: Vincent K.
+    orcid: https://orcid.org/
+title: "pgaa-material-authentication"
+version: 0.0.1
+doi: 12.34566/zenodo.1234
+date-released: YYYY-MM-DD
