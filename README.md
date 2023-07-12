@@ -15,6 +15,7 @@ Citation
 ---
 Please cite the associated manuscript as follows:
 
+~~~code
 @article{Mahynski2023,
    author = {Nathan A. Mahynski and Jacob I. Monroe and David A. Sheen and Rick L. Paul and H. Heather Chen-Mayer and Vincent K. Shen},
    doi = {10.1007/s10967-023-09024-x},
@@ -25,6 +26,7 @@ Please cite the associated manuscript as follows:
    url = {https://link.springer.com/10.1007/s10967-023-09024-x},
    year = {2023},
 }
+~~~
 
 See the CITATION.cff file for how to cite this repository.
 
