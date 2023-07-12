@@ -11,6 +11,23 @@ Highlights:
 * Class models can achieve comparable performance, which are more appropriate under real-world, "open set" conditions.
 
 
+Citation
+---
+Please cite the associated manuscript as follows:
+
+@article{Mahynski2023,
+   author = {Nathan A. Mahynski and Jacob I. Monroe and David A. Sheen and Rick L. Paul and H. Heather Chen-Mayer and Vincent K. Shen},
+   doi = {10.1007/s10967-023-09024-x},
+   issn = {0236-5731},
+   journal = {Journal of Radioanalytical and Nuclear Chemistry},
+   month = {7},
+   title = {Classification and authentication of materials using prompt gamma ray activation analysis},
+   url = {https://link.springer.com/10.1007/s10967-023-09024-x},
+   year = {2023},
+}
+
+See the CITATION.cff file for how to cite this repository.
+
 Installation
 ---
 Notebooks are included to reproduce calculations and figures in the manuscript.  They have the following dependencies:
