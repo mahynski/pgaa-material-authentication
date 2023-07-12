@@ -20,6 +20,6 @@ authors:
     given-names: Vincent K.
     orcid: https://orcid.org/
 title: "pgaa-material-authentication"
-version: 0.0.1
-doi: 12.34566/zenodo.1234
-date-released: YYYY-MM-DD
+version: v0.0.1
+doi: 10.5281/zenodo.8139690
+date-released: 2023-07-12
