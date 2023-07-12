@@ -1,4 +1,4 @@
-name: pgaa-authentication
+name: pgaa-material-authentication
 channels:
   - conda-forge
 dependencies:
